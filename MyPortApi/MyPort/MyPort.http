@@ -1,0 +1,6 @@
+@MyPort_HostAddress = http://localhost:5244
+
+GET {{MyPort_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
